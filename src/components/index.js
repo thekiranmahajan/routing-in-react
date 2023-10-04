@@ -4,5 +4,6 @@ import Footer from "./Footer/Footer";
 import Github from "./Github/Github";
 import Header from "./Header/Header";
 import Home from "./Home/Home";
+import User from "./User/User";
 
-export { About, Contact, Footer, Github, Header, Home };
+export { About, Contact, Footer, Github, Header, Home, User };
